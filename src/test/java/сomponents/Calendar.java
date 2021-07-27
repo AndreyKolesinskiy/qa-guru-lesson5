@@ -1,4 +1,4 @@
-package Components;
+package сomponents;
 
 import static com.codeborne.selenide.Selenide.$x;
 import static java.lang.String.format;

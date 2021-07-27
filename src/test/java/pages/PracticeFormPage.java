@@ -1,6 +1,6 @@
 package pages;
 
-import Components.Calendar;
+import сomponents.Calendar;
 import com.codeborne.selenide.Selenide;
 
 import java.io.File;
